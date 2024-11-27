@@ -1,0 +1,2 @@
+The DARE method describes a procedure for integrating ethical reflection into agile processes (e.g. software development with Scrum, Agile, XP, etc.) easily and without a great deal of prior knowledge.
+The repository currently contains the print templates for the DARE grid (as-is analysis and impact analysis), the cards for the “Ethical Estimation Poker” and the ethical principles flash cards. At the moment, only a German version is available online. A translation is in progress, as are the cards with the questions for the analysis.
